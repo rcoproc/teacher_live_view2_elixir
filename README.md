@@ -1,4 +1,6 @@
-# Teacher
+# Teacher Live View 2
+
+[Elixir Cast](https://elixircasts.io/phoenix-liveview-part-2)
 
 To start your Phoenix server:
 
